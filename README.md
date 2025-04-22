@@ -1,0 +1,1 @@
+I thought it would be a good idea to have my own personal portfolio where potential clients could have access to my "RESUME". Ofcourse this will not be the final design, everyday i will look for ways to make this code even better. Whereever you are viewing this from i hope this helps. See ya. 
